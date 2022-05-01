@@ -5,7 +5,7 @@
 ## Paper review
 
 * [\[2022 Spring\] Paper review](paper-review/2022-spring-paper-review/README.md)
-  * [Image Inpainting with External-internal Learning and Monochromic Bottleneck \[Eng\]](paper-review/2022-spring-paper-review/cvpr-2021-image-inpainting-eng.md)
+  * [Image Inpainting with External-internal Learning and Monochromic Bottleneck \[Eng\]](paper-review/2022-spring-paper-review/cvpr-2021-image-impainting-eng.md)
   
 ---
 
